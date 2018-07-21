@@ -1,0 +1,11 @@
+{
+  "name": "cush-plugin-typescript",
+  "version": "0.0.1",
+  "license": "MIT",
+  "description": "typescript for cush",
+  "repository": "cushJS/typescript",
+  "peerDependencies": {
+    "cush": "^0.2.0",
+    "cush-plugin-sucrase": "^0.1.0"
+  }
+}
