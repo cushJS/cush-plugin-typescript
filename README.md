@@ -1,4 +1,4 @@
-# cush-plugin-typescript v0.0.1
+# cush-plugin-typescript v0.1.0
 
 Strip types from `.ts` and `.tsx` assets.
 
